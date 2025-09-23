@@ -57,6 +57,20 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        golden: {
+          DEFAULT: "hsl(var(--golden))",
+          light: "hsl(var(--golden-light))",
+          lighter: "hsl(var(--golden-lighter))",
+          dark: "hsl(var(--golden-dark))",
+        },
+      },
+      backgroundImage: {
+        'gradient-golden': 'var(--gradient-golden)',
+        'gradient-subtle': 'var(--gradient-subtle)',
+      },
+      boxShadow: {
+        'golden': 'var(--shadow-golden)',
+        'card': 'var(--shadow-card)',
       },
       borderRadius: {
         lg: "var(--radius)",
