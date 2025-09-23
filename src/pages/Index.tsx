@@ -20,7 +20,7 @@ const Index = () => {
         "Chạy quảng cáo đa kênh (Facebook + Google + TikTok)"
       ],
       price: "3 triệu/tháng",
-      adFee: "📊 Phí quảng cáo: 5% doanh thu từ ads",
+      adFee: "📊 Phí quảng cáo: 1-5% tuỳ sản phẩm",
       color: "green" as const
     },
     {
@@ -35,7 +35,7 @@ const Index = () => {
         "Chạy quảng cáo đa kênh (Facebook + Google + TikTok)"
       ],
       price: "5 triệu/tháng",
-      adFee: "📊 Phí quảng cáo: 5% doanh thu từ ads",
+      adFee: "📊 Phí quảng cáo: 1-5% tuỳ sản phẩm",
       color: "blue" as const,
       popular: true
     },
@@ -52,7 +52,7 @@ const Index = () => {
         "Chạy quảng cáo đa kênh (Facebook + Google + TikTok)"
       ],
       price: "10 triệu/tháng",
-      adFee: "📊 Phí quảng cáo: 5% doanh thu từ ads",
+      adFee: "📊 Phí quảng cáo: 1-5% tuỳ sản phẩm",
       color: "purple" as const
     }
   ];
