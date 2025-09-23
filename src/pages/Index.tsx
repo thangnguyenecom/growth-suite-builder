@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ServiceCard from "@/components/ServiceCard";
+import MarketingAutomation from "@/components/MarketingAutomation";
 import Benefits from "@/components/Benefits";
 import Contact from "@/components/Contact";
 
@@ -81,6 +82,7 @@ const Index = () => {
         </div>
       </section>
 
+      <MarketingAutomation />
       <Benefits />
       <Contact />
       
